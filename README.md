@@ -5,4 +5,4 @@
 打开3dmax script调试器运行startup.ms内容即可，之后只需post maxscript脚本命令至3dmax服务部署的IP和端口下即可执行。
 
 
-extra提供一些字节写的bat，帮助你更快的使用
+extra提供一些bat，帮助你更快的使用
