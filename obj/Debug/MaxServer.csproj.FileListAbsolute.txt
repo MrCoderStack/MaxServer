@@ -1,0 +1,4 @@
+D:\Program Files\Autodesk\3ds Max 2014\bin\assemblies\MaxServer.dll
+D:\Program Files\Autodesk\3ds Max 2014\bin\assemblies\MaxServer.pdb
+D:\WebServer\obj\Debug\MaxServer.dll
+D:\WebServer\obj\Debug\MaxServer.pdb

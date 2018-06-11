@@ -1,0 +1,5 @@
+D:\Program Files\Autodesk\3ds Max 2014\bin\assemblies\MAXScriptWebServer.dll
+D:\Program Files\Autodesk\3ds Max 2014\bin\assemblies\MAXScriptWebServer.pdb
+D:\WebServer\obj\Debug\MAXScriptWebServer.dll
+D:\WebServer\obj\Debug\MAXScriptWebServer.pdb
+D:\WebServer\obj\Debug\MAXScriptWebServer2013.csprojResolveAssemblyReference.cache
